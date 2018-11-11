@@ -12,6 +12,8 @@ So, rules are simple and listed below:
 * ` **ONLY ONE ENTRY IS ALLOWED PER PERSON** ` if found guilty of multiple entries, this may result in a PERMANENT BAN!
 * The winner is selected randomly, there isn't any sort of preferrence to any particular person, no arguments on that please.
 
-> ###### Prize Details ######
-> ![Golden Volcanion](https://urpgstatic.com/img_library/pokemon_sprites_golden/721.png)
-> _**A Golden Volcanion**_
+`
+### Prize Details ###
+![Golden Volcanion](https://urpgstatic.com/img_library/pokemon_sprites_golden/721.png)  
+_**A Golden Volcanion**_  
+`
